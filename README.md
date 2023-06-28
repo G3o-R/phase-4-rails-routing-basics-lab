@@ -53,3 +53,5 @@ This will download all the dependencies for our app and set up the database.
 
 - [Rails Routing](https://guides.rubyonrails.org/routing.html)
 - [Active Record Query Interface](https://guides.rubyonrails.org/active_record_querying.html)
+
+https://github.com/G3o-R/phase-4-rails-routing-basics-lab
